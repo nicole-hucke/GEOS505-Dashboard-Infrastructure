@@ -1,0 +1,5 @@
+name: GEOS505
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\nicol\miniconda3\envs\GEOS505
