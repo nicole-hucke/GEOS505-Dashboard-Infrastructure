@@ -8,3 +8,5 @@ Authors:
 * Olayemi Adeyemi
 * Reed Chasmar
 
+We will be using PANEL to create our dashboard. 
+Panel Documentation: https://panel.holoviz.org/
